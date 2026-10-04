@@ -10,7 +10,7 @@ import requests
 # CONFIGURATION
 # ============================================================
 
-API_URL = "https://karigar-ai-e0n7.onrender.com"
+API_URL = "https://karigar-ai-e6n7.onrender.com"
 
 st.set_page_config(
     page_title="KarigarAI",
